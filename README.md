@@ -7,3 +7,7 @@ Sometimes I inspired from other sources, when this is the case referral can be f
 
 ***
 
+| Exercise Name       | Exercise Link           |
+| ------------------- | ----------------------- |
+| Header              | Title                   |
+| Paragraph           | Text                    |
